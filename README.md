@@ -24,13 +24,19 @@ The users can view the menus of various fictitious restaurants and cafes
 The user can place orders according to their choices from multiple restaurants at once
 The user can get special offers and discounts based on what they order from the various restaurants
 The user get the final bill with all calculations along with a CSV files saved on their device with each food item ordered
+
 📌 The Hardware used:
 
-PC with intel core i5 10th generation with 8GB RAM
+PC with intel core i5 10th generation with 8GB RAM 
+
 Lenovo-PC with Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz 2.40 GHz with 4.00 GB
+
 📌 The Software used:
 
 Microsoft Windows 11 as Operating System.
+
 Python IDLE (Python 3.10 64-bit) as Front-end Development environment.
+
 CSV File for Record Keeping.
+
 MS Word for documentation.
