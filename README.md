@@ -2,8 +2,11 @@
 ESSENS: Coded in Python using CSV files and Python libraries such as Pandas, Matplotlib and NumPy
 
 🔴 Year: 2022
+
 🟠 Programming Language Used: Python
+
 🟡 Python Libraries Used: Pandas, Matplotlib & NumPy
+
 🟢 Other Tools Used: CSV Files
 
 📌 Introduction:
